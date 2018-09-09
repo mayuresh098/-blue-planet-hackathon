@@ -1,3 +1,3 @@
 # -blue-planet-hackathon
 
-code for 
+code for https://www.hackerearth.com/sprints/blue-planet-hackathon
